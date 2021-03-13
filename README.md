@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @brettdavidsilverman
+- 👀 I’m interested in computer art
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on large data projects
+- 📫 How to reach me brettdavidsilverman@gmail.com
